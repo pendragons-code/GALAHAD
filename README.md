@@ -1,0 +1,2 @@
+# GALAHAD
+autoclicker
