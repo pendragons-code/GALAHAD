@@ -1,7 +1,9 @@
 # GALAHAD
   An autoclicking tool that is made in python.
   To run: `python3 GALAHAD.py`
-  Due to multiple requests, I will be changing some stuff soon with some minecraft releated presets since someone told me they saw a potential use of being a cobblestone miner in minecraft. (The way it works is that the durations for lava flowing to water, rate of diffent pickaxes break the cobblestone, durability of tool and automating the process of opening the inventory and moving stuff around. accounting all these, this may beome a really good farming tool since pyautogui has features for hlding a key/button down.)    
+  Due to multiple requests, I will be changing some stuff soon with some minecraft releated presets since someone told me they saw a potential use of being a cobblestone miner in minecraft.     
+  
+  (The way it works is that the durations for lava flowing to water, rate of diffent pickaxes break the cobblestone, durability of tool and automating the process of opening the inventory and moving stuff around. accounting all these, this may beome a really good farming tool since pyautogui has features for holding a key/button down.)    
       
   ``` 
   git clone https://github.com/pendragons-code/GALAHAD
