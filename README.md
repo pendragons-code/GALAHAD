@@ -11,7 +11,7 @@
   git clone https://github.com/pendragons-code/GALAHAD
   ``` 
   **Power Users 👉 👉:**  
-  As usual manipulat your .bashrc file or make an executable to get the stuff working.  
+  As usual manipulate your .bashrc file or make an executable to get the stuff working.  
   
   **Benchmarks and requests:**  
   
@@ -27,9 +27,10 @@
   # Config:
   ```
   {
-  "": ""
-  "": ""
-  "": ""
-  "": ""
+  "metter": 2,
+  "reps": 100,
+  "STDE": 0,
+  "delay": 0,
+  "count": 10
   }
   ```
