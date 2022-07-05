@@ -99,23 +99,23 @@ Amount of pickaxes in your hotbar?: """)
 
 
 
+if jsoner != "3":
 
 
 
+    if STDE == 0:
+        Deviator = delay
+    if metter != 2 and metter != 1:
+        print("Invalid choice, aborting!")
+        exit()
+    if STDE > 0:
+        Deviator = random.randomint(delay - STDE, delay + STDE)
+    while(count != 0):
+        print(count)
+        time.sleep(1)
+        count -= 1
 
-if STDE == 0:
-    Deviator = delay
-if metter != 2 and metter != 1:
-    print("Invalid choice, aborting!")
-    exit()
-if STDE > 0:
-    Deviator = random.randomint(delay - STDE, delay + STDE)
-while(count != 0):
-    print(count)
-    time.sleep(1)
-    count -= 1
-
-print("""
+    print("""
   ________    _____  .____       _____    ___ ___    _____  ________   
  /  _____/   /  _  \ |    |     /  _  \  /   |   \  /  _  \ \______ \  
 /   \  ___  /  /_\  \|    |    /  /_\  \/    ~    \/  /_\  \ |    |  \ 
@@ -124,17 +124,17 @@ print("""
         \/         \/        \/       \/       \/         \/        \/ 
 
         """)
-def clicker():
-    for i in range(0, reps):
-        pyautogui.click(button='left', clicks=reps, interval=Deviator)
-def clickerEnter():
-    for i in range(0, reps):
-        pyautogui.click()
-        pyautogui.typewrite("\n")
-        time.sleep(Deviator)
+    def clicker():
+        for i in range(0, reps):
+            pyautogui.click(button='left', clicks=reps, interval=Deviator)
+    def clickerEnter():
+        for i in range(0, reps):
+            pyautogui.click()
+            pyautogui.typewrite("\n")
+            time.sleep(Deviator)
 
 
-if metter == 1:
-    clicker()
-if metter == 2:
-    clickerEnter()
+    if metter == 1:
+        clicker()
+    if metter == 2:
+        clickerEnter()
