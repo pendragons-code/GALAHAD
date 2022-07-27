@@ -47,6 +47,6 @@
  # Brazen and shameless ADs 🤷‍♂‍
  [Instagram](https://instagram.com/pendragonscode)    
  [Site](https://code.senghong.xyz)    
- [Patreon](https://www.patreon.com/Pendragonscode) (not a lot of content tho 😥)    
+ [Patreon](https://www.patreon.com/Pendragonscode) (not a lot of content tho 😥)        
  
- 
+  Someone gave me an evil idea for spam calling with galahad.
