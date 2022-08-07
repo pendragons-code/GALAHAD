@@ -19,11 +19,11 @@
   Yup I get it, you wanna see proof that this piece of shit of a program does in fact work. I will be posting this on instagram. And maybe like LISBDIE, I'll make a gif/video to show you how fast this thing is. I was using a raspberry pi and it hit rates I never thought was possible.
   
   # Details   
-  **V1:**
-  Its just an autoclicker.
+  **v1:**
+  just an autoclicker
   
-  **Plans:**    
-  Like I said this thing will have some minecraft farming features.
+  **v2:**
+  manipulation of other buttons
   
   # Config:
   ```
