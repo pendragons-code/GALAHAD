@@ -41,6 +41,7 @@
   [python](https://www.python.org/)   
   [scrot](https://en.wikipedia.org/wiki/Scrot)   
   [tk](https://docs.python.org/3/library/tk.html)
+  [MACOS](https://github.com/asweigart/pyautogui/issues/687)
       
   `It should also be noted I do not own any of the items above.`
   
