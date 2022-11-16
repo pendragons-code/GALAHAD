@@ -1,3 +1,6 @@
+# V3
+Will soon involve burst
+
 # GALAHAD
   An autoclicking tool that is made in python.
   To run: `python3 GALAHAD.py`
