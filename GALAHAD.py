@@ -36,7 +36,7 @@ Tell me my king! What would you like me to do? I shall always be at your behest!
     reps = int(input("Repetitions?: "))
     count = int(input("Countdown?: "))
     delay = int(input("Delay per click?: "))
-    SRDE = int(input("Standard Deviation?: "))
+    STDE = int(input("Standard Deviation?: "))
     if metter > 4:
         dur = int(input("How long would you like each click to hold down for?"))
 if STDE == 0:
@@ -70,7 +70,7 @@ def clickerEnter():
         time.sleep(Deviator)
 def clickright():
     for i in range(0, reps):
-        pyautogui.click(button='right'. clicks=reps, interval=Deviator)
+        pyautogui.click(button='right', clicks=reps, interval=Deviator)
 def clickrightenter():
     for i in range(0, reps):
         pyautogui.click(button='right')
