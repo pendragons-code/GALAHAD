@@ -25,6 +25,9 @@
   **v2:**
   manipulation of other buttons
   
+  **v3**
+  burst and standard deviation
+  
   # Config:
   ```
   {
